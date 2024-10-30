@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arash Mohammadi.
 - 👀 I’m interested in Programming, Network & Security.
-- 🌱 I’m currently learning Programming in C & C++ language.
-- 💞️ I’m looking to collaborate on Learning C/C++.
+- 🌱 I’m currently learning Programming in C++ language.
+- 💞️ I’m looking to collaborate on Learning C++.
 - 📫 How to reach me: in Telegram: @ArashM313.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hmm Dear don't be so curious:)
